@@ -1,6 +1,6 @@
 ###Author: Tyler Freeman
 ###Date 09/06/2021
-###Assignment: logical expression calculator based on 2 binary inputs
+###Program: logical expression calculator based on 2 binary inputs
 
 
 
