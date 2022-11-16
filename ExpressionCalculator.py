@@ -1,6 +1,5 @@
 ###Author: Tyler Freeman
 ###Date 09/06/2021
-###Professor BobleDyk
 ###Assignment: logical expression calculator based on 2 binary inputs
 
 
